@@ -26,8 +26,8 @@ Users should be able to:
 
 ### Screenshot
 
-![Solution - Mobile]("./images/Solution Mobile.png")
-![Solution - PC]("./images/Solution PC.png")
+![Solution - Mobile]("./images/Solution%20Mobile.png")
+![Solution - PC]("./images/Solution%20PC.png")
 Add a screenshot of your solution. The easiest way to do this is to use Firefox to view your project, right-click the page and select "Take a Screenshot". You can choose either a full-height screenshot or a cropped one based on how long the page is. If it's very long, it might be best to crop it.
 
 ### Links
